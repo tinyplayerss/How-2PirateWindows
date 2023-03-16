@@ -1,4 +1,6 @@
 ![Discord](https://img.shields.io/discord/1085791934007738458?color=%237289da&label=Official%20How-2&logo=Discord&style=plastic)
+https://discord.gg/sJn7mmExcT
+
 # How-2PirateWindows
 Learn How to Pirate Windows 10 From This Detailed Guide
 
