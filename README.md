@@ -50,10 +50,10 @@ Save and Exit the BIOs let it restart it will bring up the Windows 10 Installer 
 After installation is finished install your Updates Click the Windows icon or Windows Key on your keyboard and search for Check for Updates go through the Update process this will depend on your PC/Laptop speed and some cases this will be your Internet Speed, after installing all updates and drivers restart the Laptop/PC.
 
 # Now we can move on to Activating Windows 10 For FREE!
-
+Credit Goes to [MassGravel](https://github.com/massgravel/Microsoft-Activation-Scripts).
 Copy and paste the below command in the powershell window (Click on Windows Key/icon and search for Powershell x64/x86)
 
-    irm https://massgrave.dev/get | iex
+    irm https://get.activated.win | iex
 This will bring up this window for you to activate windows 10 for FREE!
 ![Screenshot 6](https://user-images.githubusercontent.com/123846642/225540871-44b74e09-8f54-41ff-a857-ae86518be02c.png)
 
